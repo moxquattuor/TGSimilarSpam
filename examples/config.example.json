@@ -1,0 +1,24 @@
+{
+  "interface_lang": "en",
+  "phone": "+1234567890",
+  "api_id": 20190360,
+  "api_hash": "your_api_hash_here",
+  "keywords": [
+    "crypto trading",
+    "bitcoin",
+    "defi"
+  ],
+  "target_language": "BOTH",
+  "seed_channels": [
+    "CryptoPlanetCalls",
+    "Whales_Pumps",
+    "BBB_Signals",
+    "The_JustProfitOfficial",
+    "Crypto_TA_King_Verified"
+  ],
+  "msg_ru": "Добрый день!\n\nМеня зовут [Your Name].\n\nНе интересно ли вам сотрудничество с [Your Company]?\nМы предлагаем [Your Offer].\n\nРад услышать ваше мнение!\n\nС уважением,\n[Your Name]",
+  "msg_en": "Good afternoon!\n\nMy name is [Your Name].\n\nWould you be interested in partnering with [Your Company]?\nWe offer [Your Offer].\n\nLooking forward to hearing from you!\n\nBest regards,\n[Your Name]",
+  "cooldown_days": 2,
+  "send_delay_seconds": 15,
+  "max_sent_per_run": 50
+}
